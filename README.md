@@ -35,6 +35,7 @@ ipstatp.com
 (^|\.)tiktokcdn\.com$
 
 
+## method 3:
 ```
 https://raw.githubusercontent.com/abdulrahmanMostafa30/TikTok_Blocker/master/hosts
 ```
