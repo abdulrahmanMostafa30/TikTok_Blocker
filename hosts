@@ -1,6 +1,15 @@
 # ===============================================================
+method 1:
+# ===============================================================
 
-#All domains tiktok
+
+Step 1: Add the OpenDNS IP Address in WiFi Router ( 208.67.222.222  , 208.67.220.220 )
+
+Step 2: You need to create a free home account https://signup.opendns.com/homefree/
+
+Step 3: Configure Routers IP address in OpenDNS and add your IP
+
+Step 4: Block the TikTok Domain Names
 
 tiktok.com
 tiktokv.com
@@ -13,6 +22,9 @@ byteoversea.com
 ibytedtos.com
 ipstatp.com
 
+
+# ===============================================================
+method 2:
 # ===============================================================
 
 (^|\.)muscdn\.com$
@@ -21,7 +33,9 @@ ipstatp.com
 (^|\.)tiktok\.org$
 (^|\.)tiktokcdn\.com$
 
-# ===============================================================####
+# ===============================================================
+method 3:
+# ===============================================================
 
 www.tiktok.com
 p16-sign-va.tiktokcdn.com
